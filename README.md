@@ -68,7 +68,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![2021-12-02 20_33_45-sysadmin@ELK_ ~](https://github.com/hockmantyler/OSU_azure_ELK_stack/blob/main/images/2021-12-02%2020_33_45-sysadmin%40ELK_%20~.png)
+![2021-12-02 20_33_45-sysadmin@ELK_ ~]!(https://github.com/hockmantyler/OSU_azure_ELK_stack/blob/main/images/2021-12-02%2020_33_45-sysadmin%40ELK_%20~.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
