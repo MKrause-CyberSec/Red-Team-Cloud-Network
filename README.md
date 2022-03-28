@@ -2,7 +2,7 @@
 ### Description of the Topology
 The files in this repository were used to configure the network depicted below.
 ![TODO: Update the path with the name of your diagram]
-
+(https://github.com/MKrause-CyberSec/Red-Team-Cloud-Network/blob/main/Diagrams/Cloud_Infrastructure_with_ELK_Stack.png)
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
 This document contains the following details:
